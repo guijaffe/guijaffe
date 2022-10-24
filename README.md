@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![programming](https://user-images.githubusercontent.com/82184056/197493612-51fd5e44-90e6-4dbb-b6fd-91afbb341760.gif)
 <!--
 **guijaffe/guijaffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
